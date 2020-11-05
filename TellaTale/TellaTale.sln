@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TellaTale", "TellaTale\TellaTale.csproj", "{BF88D874-6551-48E2-A682-456764E351CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppgift2", "Uppgift2\Uppgift2.csproj", "{ADCC9B91-0CDA-487F-A698-EF7F6F540330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uppgift3", "Uppgift3\Uppgift3.csproj", "{18F0E97D-B1EE-4E34-82D8-C0DE3D7C916E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF88D874-6551-48E2-A682-456764E351CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF88D874-6551-48E2-A682-456764E351CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF88D874-6551-48E2-A682-456764E351CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF88D874-6551-48E2-A682-456764E351CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADCC9B91-0CDA-487F-A698-EF7F6F540330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCC9B91-0CDA-487F-A698-EF7F6F540330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCC9B91-0CDA-487F-A698-EF7F6F540330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCC9B91-0CDA-487F-A698-EF7F6F540330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18F0E97D-B1EE-4E34-82D8-C0DE3D7C916E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18F0E97D-B1EE-4E34-82D8-C0DE3D7C916E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18F0E97D-B1EE-4E34-82D8-C0DE3D7C916E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18F0E97D-B1EE-4E34-82D8-C0DE3D7C916E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {168C43D6-FF67-435F-A72A-5FA79E51B9F3}
+	EndGlobalSection
+EndGlobal
